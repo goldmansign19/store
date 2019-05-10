@@ -1,0 +1,3 @@
+*.pyc
+shop/media
+shop/local_settings.py
